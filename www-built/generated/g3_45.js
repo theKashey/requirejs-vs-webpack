@@ -1,0 +1,1 @@
+define(["generated/g2_45"],function(e){return(e||0)+45});

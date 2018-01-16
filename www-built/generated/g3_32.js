@@ -1,0 +1,1 @@
+define(["generated/g2_32"],function(e){return(e||0)+32});

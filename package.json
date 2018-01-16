@@ -1,0 +1,14 @@
+{
+  "amd": {},
+  "volo": {
+    "baseUrl": "www/lib"
+  },
+  "scripts": {
+    "gen": "rm -Rf ./www/generated/* && node tools/gen.js",
+    "build:r": "node tools/r.js -o tools/build.js",
+    "build:w": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}

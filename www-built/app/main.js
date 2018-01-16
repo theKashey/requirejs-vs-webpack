@@ -1,0 +1,1 @@
+define(["require","./messages","print"],function(e){" undefined"!=typeof __webpack_public_path__&&(__webpack_public_path__="../www-packed/");var n=e("./messages"),t=e("print");t(n.getHello());var a=Date.now();setTimeout(function(){e(["generated/index"],function(e){t("RESULT IS",e),alert("done in"+Date.now()-a)})},1)});

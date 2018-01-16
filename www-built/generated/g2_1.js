@@ -1,0 +1,1 @@
+define(["generated/g1_1"],function(e){return(e||0)+1});

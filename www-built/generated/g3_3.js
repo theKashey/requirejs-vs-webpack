@@ -1,0 +1,1 @@
+define(["generated/g2_3"],function(e){return(e||0)+3});

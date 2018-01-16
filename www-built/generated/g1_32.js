@@ -1,0 +1,1 @@
+define(["generated/g0_32"],function(e){return(e||0)+32});
