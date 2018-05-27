@@ -9,6 +9,6 @@
     "build:w": "webpack"
   },
   "devDependencies": {
-    "webpack": "^3.10.0"
+    "webpack": "^4.9.1"
   }
 }
